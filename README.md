@@ -89,6 +89,6 @@
 ## 🤝 Как со мной связаться:
 
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:vaiera.com@mail.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]([https://t.me/dolnikov](https://t.me/Dymchenko_V))
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]([https://t.me/Dymchenko_V])
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
