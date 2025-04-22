@@ -83,6 +83,7 @@
 ## 🪴 Учился и стажировался:
 <div>
 <img src="https://github.com/ValeryQA1911/ValeryQA1911/blob/main/Certificate%20QA.png" title="Certificate QA" alt= "Certuficate_QA" width="1080" height="720"/>&nbsp
+<img src="https://github.com/ValeryQA1911/ValeryQA1911/blob/main/Certificate%20QA.png" width="280px" hspace="10px" title="Certificate QA" alt= "Certuficate_QA""
 </div>
 
 <br>
