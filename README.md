@@ -26,6 +26,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
 </div>
+<br>
 
 ## 📱 Проверяю Web и мобильные приложения через:
 <div>
@@ -37,6 +38,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
 </div>
+<br>
 
 ## 📊 Статистику, логи и мониторинги смотрю тут:
 <div>
@@ -46,6 +48,7 @@
   <img src="https://avatars.githubusercontent.com/u/28545596?s=200&v=4" title="Jaeger" alt="Jaeger" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
 </div>
+<br>
 
 ## 📓 Планирую и пишу документацию в: 
 <div>
@@ -55,6 +58,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sublime-Dark.svg" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp
 </div>
+<br>
 
 ## 📑 Ищу в БД через:
 <div>
@@ -63,6 +67,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
+<br>
 
 ## 🔧 Постигаю автотесты на:
 <div>
@@ -77,14 +82,12 @@
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
-
 <br>
 
 ## 📙 Учился и стажировался:
 <div>
 <img src="https://github.com/ValeryQA1911/ValeryQA1911/blob/main/Certificate%20QA.png" width="280px" hspace="10px" title="Certificate QA" alt= "Certuficate_QA""
 </div>
-
 <br>
 
 ## ☎️ Как со мной связаться:
