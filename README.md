@@ -1,5 +1,5 @@
-## Приветствую!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=Привет!+На+связи+ващ+будущий+QA+Engineer+)](https://git.io/typing-svg)
+## Привет!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=На+связи+ваш+будущий+QA+Engineer)](https://git.io/typing-svg)
 
 ##  Немного статистики
 
