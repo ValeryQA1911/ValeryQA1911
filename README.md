@@ -85,7 +85,7 @@
 
 <br>
 
-## 📙 Учился и стажировался:
+## 📙 Учился в:
 <div>
 <img src="https://github.com/ValeryQA1911/ValeryQA1911/blob/main/Certificate%20QA.png" width="280px" hspace="10px" title="Certificate QA" alt= "Certuficate_QA""
 </div>
