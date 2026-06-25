@@ -1,15 +1,10 @@
 ## Привет!
-
-##  Немного статистики
-
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
-
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FF66&width=435&lines=Что+по+навыкам+?)](https://git.io/typing-svg)
 
 ## 💞 Тестирую API и интеграции с помощью:
 <div>
@@ -85,7 +80,7 @@
 </div>
 <br>
 
-## ☎️ Как со мной связаться:
+## ☎️ Контакты
 
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:vaiera.com@mail.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Dymchenko_V)
