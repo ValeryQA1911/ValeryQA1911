@@ -2,7 +2,6 @@
 
 ##  Немного статистики
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&theme=buefy&locale=en&langs_count=8&username=ValeryQA1911)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&theme=buefy&hide_progress=true&username=ValeryQA1911)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
