@@ -1,4 +1,3 @@
-## Привет!
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
@@ -6,7 +5,7 @@
 
 <br>
 
-## 💞 Тестирую API и интеграции с помощью:
+## API и интеграции:
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" title="SOAP" alt="SOAP" width="40" height="40"/>&nbsp
@@ -17,7 +16,7 @@
 </div>
 <br>
 
-## 📱 Проверяю Web и мобильные приложения через:
+## Web и мобильные приложения через:
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" alt="HTTP" width="40" height="40"/>&nbsp
@@ -29,7 +28,7 @@
 </div>
 <br>
 
-## 📊 Статистику, логи и мониторинги смотрю тут:
+## Статистика, логи и мониторинги:
 <div>
   <img src="https://raw.githubusercontent.com/maliceio/kibana/master/docs/kibana-logo.png" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
@@ -39,7 +38,7 @@
 </div>
 <br>
 
-## 📓 Планирую и пишу документацию в: 
+## Планирование и документация: 
 <div>
    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
   <img src="https://logosandtypes.com/wp-content/uploads/2023/03/clickup.svg" title="ClickUp" alt="ClickUp" width="40" height="40"/>&nbsp
@@ -49,7 +48,7 @@
 </div>
 <br>
 
-## 📑 Ищу в БД через:
+## БД:
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
@@ -58,7 +57,7 @@
 </div>
 <br>
 
-## 🔧 Постигаю автотесты на:
+## Автотесты:
 <div>
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
@@ -74,13 +73,13 @@
 
 <br>
 
-## 📙 Учился в:
+## Учился в:
 <div>
 <img src="https://github.com/ValeryQA1911/ValeryQA1911/blob/main/Certificate%20QA.png" width="280px" hspace="10px" title="Certificate QA" alt= "Certuficate_QA""
 </div>
 <br>
 
-## ☎️ Контакты
+## Контакты
 
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:vaiera.com@mail.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Dymchenko_V)
